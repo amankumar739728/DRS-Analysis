@@ -1,6 +1,6 @@
  # create a folder in (c:\) local repository and run the below command to execute the code output in vscode
 
-1. C:\DRS-Python-Project>git clone https://github.com/AnkitM18-tech/Third-Umpire-DRS-System.git
+1. C:\DRS-Python-Project>git clone https://github.com/amankumar739728/DRS-Analysis.git
 
 2. C:\DRS-Python-Project>cd Third-Umpire-DRS-System
 
