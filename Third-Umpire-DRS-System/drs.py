@@ -8,7 +8,7 @@ import imutils
 import time
 
 #Getting the stream
-stream = cv2.VideoCapture("sources/video.mp4")
+stream = cv2.VideoCapture("sources/video1.mp4")
 flag =True
 
 #functions for commands
